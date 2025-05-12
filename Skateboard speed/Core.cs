@@ -39,7 +39,7 @@ namespace Skateboard_speed
         {
             if (speedText != null && activeBoard != null)
             {
-
+                // Calculation copied from how the game calculates speed for cars
                 float speed = MathF.Abs(activeBoard.VelocityCalculator.Velocity.magnitude * 3.6f * 1.4f);
 
                 speedText.text = MathF.Abs(speed).ToString("0") + " km/h";
