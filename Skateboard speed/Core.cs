@@ -18,8 +18,6 @@ namespace Skateboard_speed
         private static Skateboard activeBoard;
         private static GameObject speedCanvas;
         private static TextMeshProUGUI speedText;
-        private static TextMeshProUGUI topSpeedText;
-        private static int topSpeed = 0;
         private static bool isCanvasActive = false;
 
         public override void OnInitializeMelon()
