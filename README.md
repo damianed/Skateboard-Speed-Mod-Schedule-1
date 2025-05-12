@@ -19,7 +19,7 @@ Built using [MelonLoader](https://melonwiki.xyz/#/).
    Download and install MelonLoader following the instructions on the [official website](https://melonwiki.xyz/#/).
 
 2. **Download the Mod**  
-   Build this project or download the compiled `Skateboard speed.dll`.
+   Download the compiled `Skateboard speed.dll` from the releases.
 
 3. **Add the Mod to the Game**  
    - Place `Skateboard speed.dll` into the `Mods` folder inside your Schedule I game directory (created by MelonLoader).
